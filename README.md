@@ -18,7 +18,7 @@ pip install requirements.txt
 3. Run the model in 'sample_jp.ipynb'
 
 
-## Sample Output
+# Sample Output
 
 ### Character_design
 
