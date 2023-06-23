@@ -1,5 +1,6 @@
 # Backstory_and_CharacterDesign_Generator_MortalKombat_Character
-Generate backstories for Mortal Kombat character using nanoGPT and OpenJourney
+Generate backstories for Mortal Kombat character using nanoGPT and OpenJourney.
+- We train the models with Mortal Kombat characters' backstories and stable diffusion prompts
 
 
 # Guide to run the model
