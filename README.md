@@ -15,6 +15,6 @@ Generate backstories for Mortal Kombat character using nanoGPT and OpenJourney
 ## Sample Output
 
 Character_design
-![A woman with katana]([image_url](https://github.com/TasnimSyamim/backstories_generator_mk/blob/main/output/mk1.png)https://github.com/TasnimSyamim/backstories_generator_mk/blob/main/output/mk1.png)
+![A woman with katana ](https://github.com/TasnimSyamim/backstories_generator_mk/blob/main/output/mk1.png)https://github.com/TasnimSyamim/backstories_generator_mk/blob/main/output/mk1.png)
 
 Backstory
