@@ -9,6 +9,7 @@ Generate character backstories and design for Mortal Kombat character using [nan
 ```cmd
 pip install requirements.txt
 ```
+## Follow these steps
 1. Download these 2 files (because the trained model is a little bit large):
   - 'out-prompt'
   - 'out-mk-src'
