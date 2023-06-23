@@ -1,2 +1,4 @@
 out-mk/
 out-mk-src/
+out-prompt/
+data/prompt/upscaled_prompts_df.csv
