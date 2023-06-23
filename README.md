@@ -1,6 +1,6 @@
 # Backstory_and_CharacterDesign_Generator_MortalKombat_Character
 Generate character backstories and design for Mortal Kombat character using [nanoGPT](https://github.com/karpathy/nanoGPT#install) and [OpenJourney](https://huggingface.co/prompthero/openjourney).
-- We train the models with Mortal Kombat characters' backstories and midjourney [prompts](https://www.kaggle.com/datasets/iraklip/modjourney-v51-cleaned-data)
+- We train the models with Mortal Kombat characters' [backstories](https://github.com/TasnimSyamim/backstories_generator_mk/blob/main/data/mk/MK_characterdata.csv) (from webscraping) and midjourney [prompts](https://www.kaggle.com/datasets/iraklip/modjourney-v51-cleaned-data)
 
 
 # Guide to run the model
